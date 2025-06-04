@@ -8,7 +8,7 @@ public class Conexion {
 
     //Los atributos??? //invocan las variables desde github
     private static final String URL = "jdbc:mysql://srv863.hstgr.io:3306/u484426513_dsc225";
-    private static final String USER = "1u484426513_dsc225";
+    private static final String USER = "u484426513_dsc225";
     private static final String PASSWORD = "/Nv0[f7U";
 //    la clave : /Nv0[f7U
 //            u484426513_dsc225
