@@ -20,10 +20,6 @@ target/
 build/
 
 # === IntelliJ IDEA ===
-.idea/
-*.iml
-*.iws
-*.ipr
 
 # === VS Code (si lo usas también) ===
 .vscode/
